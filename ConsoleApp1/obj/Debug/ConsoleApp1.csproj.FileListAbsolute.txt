@@ -1,0 +1,9 @@
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\bin\Debug\agsXMPP.dll
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\bin\Debug\agsXMPP.pdb
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Bala\Downloads\agsXmpp-master\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

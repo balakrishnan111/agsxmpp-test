@@ -1,0 +1,9 @@
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\bin\Debug\agsXMPP.dll
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\bin\Debug\agsXMPP.pdb
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Bala\Downloads\agsXmpp-master\samples\VS2008\ConsoleClient\obj\Debug\ConsoleClient.pdb

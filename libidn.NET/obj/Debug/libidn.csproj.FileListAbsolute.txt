@@ -1,0 +1,5 @@
+C:\Users\Bala\Downloads\agsXmpp-master\libidn.NET\bin\Debug\libidn.dll
+C:\Users\Bala\Downloads\agsXmpp-master\libidn.NET\bin\Debug\libidn.pdb
+C:\Users\Bala\Downloads\agsXmpp-master\libidn.NET\obj\Debug\libidn.csproj.CoreCompileInputs.cache
+C:\Users\Bala\Downloads\agsXmpp-master\libidn.NET\obj\Debug\libidn.dll
+C:\Users\Bala\Downloads\agsXmpp-master\libidn.NET\obj\Debug\libidn.pdb
